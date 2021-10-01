@@ -1,0 +1,20 @@
+{
+    "My_home":
+    {
+        "rooms":[
+            
+            {
+                "room 1":{
+                "S_makeres": 100,
+                "P_paragic": 20
+            }
+            },
+            {
+                "room 2":{
+                "P_paragic": 30,
+                "S_makeres": 180
+            }
+            }
+        ]
+    }
+}
